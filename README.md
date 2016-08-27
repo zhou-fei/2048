@@ -1,5 +1,9 @@
 # 2048
 
+### Preview
+
+<http://helloworld.zhoufei.name/2048/>
+
 ### Screenshot
 
 <p align="center">
